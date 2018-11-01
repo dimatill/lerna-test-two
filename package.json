@@ -1,0 +1,23 @@
+{
+  "name": "lerna-test-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimatill/lerna-test-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimatill/lerna-test-two/issues"
+  },
+  "homepage": "https://github.com/dimatill/lerna-test-two#readme",
+  "dependencies": {
+    "@astrumu/package-one": "^0.1.0",
+    "@astrumu/package-three": "^0.3.0"
+  }
+}
